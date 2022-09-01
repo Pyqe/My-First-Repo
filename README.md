@@ -4,4 +4,4 @@ NPM     : 2106630031
 
 Kelas   : D
 
-Hobi    : Nonton YouTube
+Hobi    : Tidak nonton YouTube
